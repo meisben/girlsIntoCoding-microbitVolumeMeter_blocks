@@ -152,7 +152,7 @@ There are two options (explained on this [page](https://microbit.org/get-started
 * Let's write some code to make the microbit display a smiley face when the program starts
 * When you have finished - download it to you micro:bit (follow the instructions here)
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_WPcUfoRfpUpg" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Hmk5yU0gF48g" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 <br>
 
 ### Let's make the face change
